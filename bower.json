@@ -1,0 +1,23 @@
+{
+  "name": "sockettome",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Cade Nichols <cade@cadenichols.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "socket.io-client": "~1.3.7"
+  }
+}
